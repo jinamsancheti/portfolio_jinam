@@ -1,0 +1,53 @@
+body
+{   
+    background-color: #FFFBEB;  /* EAF6F6*/
+}
+
+hr
+{
+    /* border-style: dotted none none;*/
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+
+hr:hover
+{
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: #C060A1;
+    border-width: 5px;
+}
+
+h1
+{
+    color: #2B3A55;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+h2
+{
+    color: #000000;  /* CE777 */ 
+}
+h2:hover{
+    color: royalblue;
+}
+table:hover
+{
+    color: #C060A1;
+    border-color: royalblue ;
+    border-width: 6px;
+}
+
+/*------------------------------CLASS SELECTORS----------------------------------------*/
+
+.profile
+{
+    border-radius: 100%; 
+}
+
+/* */
+
